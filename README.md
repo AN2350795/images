@@ -2,7 +2,7 @@
 
 ### 🎨 이미지 저작권 안내 (Image Copyright Notice)
 
-본 저장소에 포함된 일부 일러스트는 **ⓒ NADDIC GAMES Co.,Ltd**의 자산입니다.  
+본 저장소에 포함된 일러스트는 **ⓒ NADDIC GAMES Co.,Ltd**의 자산입니다.  
 이미지 사용은 **비상업적 목적의 팬 콘텐츠 제작 및 전시**를 위한 것으로,  
 해당 일러스트의 **저작권은 모두 NADDIC GAMES Co.,Ltd에 귀속**됩니다.
 
